@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArcticDu
+- 👋 Hi, I’m @MariiaGit
 - 👀 I’m interested in Python, DevNet, coding
 - 🌱 I’m currently learning Python, Unity, C#, Java
 - 💞️ I’m looking to collaborate on Python, DevNet
