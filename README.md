@@ -12,6 +12,8 @@
 - :seedling: Junior of Python.
   
 - :zap: IT PM 17+ years.
+
+- 💻: Crazy Gamer 
   
 ---
 
