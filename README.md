@@ -13,7 +13,7 @@
   
 - :zap: IT PM 17+ years.
 
-- 💻: Crazy Gamer 
+- 💻 Crazy Gamer 
   
 ---
 
