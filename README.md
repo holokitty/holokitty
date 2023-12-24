@@ -6,9 +6,6 @@
 
  Nice to see you on my profile. First of all, I am an IT Project Manager and owner of IT company QLab. It is one side of my life. And second side: I am a self-taught Software Engineer working freelance! I’ve been running a GitHub  account a few years ago. I was a CEO and TechLead of International Payment System in UAE.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 - :telescope: MBA Manager Startups.
 
