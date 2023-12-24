@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @ArcticDU
-- 👀 I’m interested in Python, DevNet, coding
-- 🌱 I’m currently learning Python, Unity, C#, Java
-- 💞️ I’m looking to collaborate on Python, DevNet
-- 📫 How to reach me by email dbnull13@gmail.com
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
-<!---
-ArcticDu/ArcticDu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+jobs:
+  update-readme-with-blog:
+    name: Update this repos README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "4"
+          feed_list: "https://dev.to/feed/itszed0"
