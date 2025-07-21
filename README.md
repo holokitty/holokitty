@@ -57,8 +57,7 @@
 ---
 
 ## 📫 How to reach me  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://linkedin.com/in/your-link-here)  
+ 
 [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail)](mailto:dbnull24@gmail.com)
 
 ---
